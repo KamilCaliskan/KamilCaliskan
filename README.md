@@ -3,7 +3,7 @@
 🎯 I'm a self-driven learner with a background in Mathematics and Mechatronics Engineering.  
 🧑‍🏫 I worked as a math teacher for 10 years, and now I’m building a new career in software development in Germany.  
 💻 I'm focused on full-stack development (MERN) and exploring cybersecurity and data analytics.  
-🌱 Currently improving my English (B1) and German (A2).  
+🌱 Currently improving my English (B2) and German (B1).  
 🇩🇪 Living in Germany and actively looking for junior-level opportunities or internship positions in tech.
 
 ---
@@ -24,7 +24,7 @@
 - 🔒 Cybersecurity Basics (TryHackMe, Linux, Networking)
 - 🌐 Full Stack Development (MERN)
 - 📊 Data Analytics (Python, SQL, Pandas, Power BI)
-- 🗣️ English (B1), Deutsch (A2)
+- 🗣️ English (B2), Deutsch (B1)
 
 ---
 
