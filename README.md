@@ -20,8 +20,6 @@
 ---
 
 ## 🧠 Current Learning / Aktuelles Lernen
-
-- 🔒 Cybersecurity Basics (TryHackMe, Linux, Networking)
 - 🌐 Full Stack Development (MERN)
 - 📊 Data Analytics (Python, SQL, Pandas, Power BI)
 - 🗣️ English (B2), Deutsch (B1)
@@ -39,6 +37,4 @@
 ---
 
 ## 🔗 Connect with Me / Kontakt
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kamilcaliskan/)
 - 💬 Languages: Turkish (native), English (B2), Deutsch (B1)
