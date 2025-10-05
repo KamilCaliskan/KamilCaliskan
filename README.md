@@ -23,5 +23,5 @@ JavaScript · React · Node.js · MongoDB · Git · Linux
 
 ---
 
-## 📫 Contact  
+
 Languages: Turkish (native), English (B2), German (B1)  
