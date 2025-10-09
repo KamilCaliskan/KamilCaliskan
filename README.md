@@ -1,27 +1,29 @@
-# Hi, I'm Kamil Çalışkan 👋  
+# Hi, I'm Kamil Çalışkan 👋
 
-I'm building a career in software development in Germany.  
-
----
-
-## 🚀 About Me  
-- Focused on full-stack (MERN)  
-- Interested in cybersecurity and data analytics  
-- Open to junior developer or internship opportunities  
+I'm a self-driven developer currently building software projects in Germany.  
+I focus on full-stack development and collaborative projects.
 
 ---
 
-## 💻 Tech Stack  
-JavaScript · React · Node.js · MongoDB · Git · Linux  
+## 🚀 Active Projects
+
+### 🎮 WoW Battle Royale
+- Multiplayer game project (group collaboration)
+- Developing gameplay mechanics and backend integration
+- Public, actively maintained
+
+### 🔒 AutomatePro
+- Private automation project
+- Focused on process optimization and workflow automation
+- Private repo for professional use
 
 ---
 
-## 📂 Projects  
-- **Notes App** – MERN CRUD with authentication  
-- **COVID Dashboard** – Data visualization from public API  
-- **Mini E-commerce** – Simple e-commerce system with React, Express, MongoDB  
+## 💻 Tech Stack
+JavaScript | React | Node.js | MongoDB | Git | Linux
 
 ---
 
-
-Languages: Turkish (native), English (B2), German (B1)  
+## 📫 Contact
+- Languages: Turkish (native), English (B2), German (B1)
+- Feel free to connect for collaboration or feedback
