@@ -24,8 +24,7 @@ JavaScript | React | Node.js | MongoDB | Git | Linux
 
 ---
 
-## 📫 Contact
-https://linkedin.com/in/kamil-caliskan-dev 
+
 
 - Languages: Turkish (native), English (B2), German (B1)
 - Feel free to connect for collaboration or feedback
