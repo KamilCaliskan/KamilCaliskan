@@ -1,93 +1,55 @@
-# 👨‍💻 Kamil Çalışkan — Backend Software Engineer
+```md
+# Kamil Çalışkan — Backend Software Engineer
 
-Backend-focused software engineer with a strong commitment to building **secure, reliable, and production-ready APIs**.  
-Currently based in **Baden-Württemberg, Germany**, actively pursuing backend roles with a focus on **enterprise and FinTech systems**.
-
----
-
-## 🎯 Current Goal
-
-Build and demonstrate **deep backend engineering skills** through real projects, strong testing practices, and infrastructure automation.  
-Main focus: **Java + Spring Boot + PostgreSQL + Docker + CI/CD**.
+Backend-focused developer building secure, reliable, and production-ready APIs.  
+Based in Baden-Württemberg, Germany. Open to junior backend roles.
 
 ---
 
-## 🛠 Core Technical Skills
+## Core Skills
 
-### 📌 Backend & API
-- **Java 17**
-- **Spring Boot 3**
-- REST API design
-- JWT Authentication & Role-based Access
-
-### 📊 Data & Persistence
-- **PostgreSQL**
-- Spring Data JPA / Hibernate
-- Flyway migrations
-- ACID + transaction isolation
-
-### 🔐 Security & Reliability
-- JWT
-- Input validation
-- Audit logging
-- Structured error handling
-
-### 🧪 Testing
-- **JUnit 5**
-- Mockito
-- Testcontainers (real DB integration)
-- Unit & Integration tests
-
-### 📦 DevOps & Deployment
-- **Docker & Docker Compose**
-- GitHub Actions (CI/CD)
-- Environment configuration
+**Backend:** Java 17, Spring Boot 3, REST APIs, JWT, Role-based access  
+**Database:** PostgreSQL, JPA/Hibernate, Flyway, Transactions  
+**Testing:** JUnit 5, Mockito, Testcontainers  
+**DevOps:** Docker, Docker Compose, GitHub Actions (CI/CD)
 
 ---
 
-## 📁 Highlight Projects
+## Projects
 
-### 🔐 Secure Transaction Ledger API  
-*(Repository link inserted when ready)*
+### Secure Transaction Ledger API
+Backend system simulating financial transactions.
 
-Backend API that simulates **real-world financial transaction handling**:
+- Atomic transfers with rollback  
+- Pessimistic & optimistic locking  
+- JWT authentication & authorization  
+- Audit logging  
+- Integration tests with PostgreSQL (Testcontainers)  
+- Dockerized with CI/CD  
 
-**Features:**
-- Atomic money transfers with rollback
-- Pessimistic & optimistic locking
-- JWT auth & role-based protection
-- Immutable audit log
-- Real integration tests with PostgreSQL + Testcontainers
-- Dockerized and CI/CD pipeline
-
-**Tech:** Spring Boot, PostgreSQL, Flyway, JWT, Docker, GitHub Actions
+**Tech:** Spring Boot, PostgreSQL, Flyway, JWT, Docker  
 
 ---
 
-## 📌 Other Projects
+## Other Projects
 
-| Repository | Stack | Description |
-|------------|-------|-------------|
-| **WoW Battle Royale** | C++ | Multiplayer game logic & backend integration |
-| **job-tracker-dashboard** | JavaScript | Interactive job tracking dashboard |
-
-These earlier projects demonstrate **general development fundamentals** and collaborative experience.
+- **WoW Battle Royale (C++)** — Game logic & backend basics  
+- **Job Tracker Dashboard (JavaScript)** — Simple tracking UI  
 
 ---
 
-## 🧠 Engineering Practices
+## Engineering Focus
 
-- **Test-first mindset**
-- **Logging & observability**
-- **Security by default**
-- **Database reliability**
-- **Clear architecture & documentation**
+- Clean API design  
+- Secure coding practices  
+- Reliable database handling  
+- Test-driven development basics  
 
 ---
 
-## 🌍 Languages
+## Languages
 
-🇹🇷 Turkish — Native  
-🇬🇧 English — B2  
-🇩🇪 German — B1
-
+Turkish (Native)  
+English (B2)  
+German (B1)
+```
